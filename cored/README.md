@@ -12,6 +12,20 @@ Happy to sideload, interested in updates through the app, or waiting for Google 
 
 **[Vote: Would you use Cored on your Nvidia Shield?](https://github.com/orgs/GroovyForge/discussions/1)**
 
+## Screenshots
+
+Captured on an Nvidia Shield using sample profiles and music details. Artwork is shown as placeholders.
+
+### Home
+
+[![Cored Home with sample music](screenshots/home.png)](screenshots/home.png)
+
+| Now Playing | Profiles |
+| --- | --- |
+| [![Now Playing with sample lyrics](screenshots/now-playing.png)](screenshots/now-playing.png) | [![Profile selection with sample names](screenshots/profiles.png)](screenshots/profiles.png) |
+
+Select an image to view it at full size.
+
 ## Features
 
 ### Browse and listen
