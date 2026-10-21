@@ -6,4 +6,4 @@ Update channel manifests are published under `channels/beta.json` and `channels/
 
 APKs are GitHub Release assets, not files committed to this repository. The application source is maintained in a separate private repository.
 
-[Privacy and Terms](https://groovyforge.co.uk/cored/privacy.html)
+[Privacy and Terms](https://groovyforge.co.uk/cored/privacy_and_terms.html)
