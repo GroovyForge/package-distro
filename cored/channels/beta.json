@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "uk.co.groovyforge.cored",
+  "versionName": "0.9.0-beta.4",
+  "versionCode": 7,
+  "channel": "beta",
+  "minimumSdk": 30,
+  "sha256": "7a644128b7a44ba7e754aba4d160f7fe30c7bb0de01564d98c39593af09a4cc8",
+  "size": 3272806,
+  "certificateSha256": "3aa84ac8a9e3c80205dacd5861a43e6dffcb481843c6752817b8419cf2543d86",
+  "downloadUrl": "https://github.com/GroovyForge/package-distro/releases/download/cored-v0.9.0-beta.4/cored-0.9.0-beta.4.apk",
+  "releaseUrl": "https://github.com/GroovyForge/package-distro/releases/tag/cored-v0.9.0-beta.4",
+  "virusTotalUrl": "https://www.virustotal.com/gui/file/7a644128b7a44ba7e754aba4d160f7fe30c7bb0de01564d98c39593af09a4cc8",
+  "scannedAt": "2026-10-21T11:45:11.402Z",
+  "sourceCommit": "703fbaee0b6dad7de65f0057e5980cb44c35d4c8"
+}
