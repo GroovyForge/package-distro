@@ -1,6 +1,6 @@
 # GroovyForge packages
 
-Public application downloads and update information, source code is maintained separately. Applications are listed below with there specific details.
+Public application downloads and update information all source code is maintained separately. Applications are listed below with there specific details.
 
 ## Cored
 
