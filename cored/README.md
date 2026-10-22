@@ -54,6 +54,10 @@ Choose either sign-in option:
 
 ## Install
 
+Install via Downloader using APP ID 9881601
+
+-or-
+
 1. Open the [beta4 release](https://github.com/GroovyForge/package-distro/releases/tag/cored-v0.9.0-beta.4) and download the APK under **Assets**.
 2. Transfer the APK to your Nvidia Shield and open it.
 3. If Android asks, allow installation from the app you use to open the APK.
