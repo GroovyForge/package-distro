@@ -4,7 +4,7 @@ Cored is a free Apple Music player for the Nvidia Shield, it's only been tested 
 
 An active Apple Music subscription and an Nvidia Shield running Android 11 or later are required. Other devices have not been tested.
 
-**[Download beta4](https://github.com/GroovyForge/package-distro/releases/tag/cored-v0.9.0-beta.4)**
+**[Download beta5](https://github.com/GroovyForge/package-distro/releases/tag/cored-v0.9.0-beta.5)**
 
 ## Would you use Cored?
 
