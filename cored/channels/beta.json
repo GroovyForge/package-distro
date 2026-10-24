@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "applicationId": "uk.co.groovyforge.cored",
-  "versionName": "0.9.0-beta.4",
-  "versionCode": 7,
+  "versionName": "0.9.0-beta.5",
+  "versionCode": 8,
   "channel": "beta",
   "minimumSdk": 30,
-  "sha256": "7a644128b7a44ba7e754aba4d160f7fe30c7bb0de01564d98c39593af09a4cc8",
-  "size": 3272806,
+  "sha256": "2ae6db26c82ce7e9d66e7f9f43296b625c47897b779290959697bfe6ae25b368",
+  "size": 3555013,
   "certificateSha256": "3aa84ac8a9e3c80205dacd5861a43e6dffcb481843c6752817b8419cf2543d86",
-  "downloadUrl": "https://github.com/GroovyForge/package-distro/releases/download/cored-v0.9.0-beta.4/cored-0.9.0-beta.4.apk",
-  "releaseUrl": "https://github.com/GroovyForge/package-distro/releases/tag/cored-v0.9.0-beta.4",
-  "virusTotalUrl": "https://www.virustotal.com/gui/file/7a644128b7a44ba7e754aba4d160f7fe30c7bb0de01564d98c39593af09a4cc8",
-  "scannedAt": "2026-10-21T11:45:11.402Z",
-  "sourceCommit": "703fbaee0b6dad7de65f0057e5980cb44c35d4c8"
+  "downloadUrl": "https://github.com/GroovyForge/package-distro/releases/download/cored-v0.9.0-beta.5/cored-0.9.0-beta.5.apk",
+  "releaseUrl": "https://github.com/GroovyForge/package-distro/releases/tag/cored-v0.9.0-beta.5",
+  "virusTotalUrl": "https://www.virustotal.com/gui/file/2ae6db26c82ce7e9d66e7f9f43296b625c47897b779290959697bfe6ae25b368",
+  "scannedAt": "2026-10-24T21:40:46.539Z",
+  "sourceCommit": "e86100af0f3f675104281e11fc9ccea8b6b6f384",
+  "releaseNotes": "### What's new\n\n- Up next appears for the last 30 seconds of a song.\n- Cleaner Now Playing: the artwork and controls are centred, and lyrics always follow the song.\n- Redesigned Who's listening, with PIN entry on the same screen and up to 20 profiles.\n- New Apple White theme, with the option to give each profile its own theme.\n- Optional in-app updates, checked before you install.\n- Artist sorting, and large library selections play again.\n\n### Improvements\n\n- Returning to the profile that's playing no longer asks for its PIN.\n- Signing in to Apple Music again replaces the previous account.\n- Faster recovery after connection loss, with clear messages when Apple Music is busy.\n- Cached music information and profile photos are now encrypted.\n- Other apps can no longer record Cored's audio.\n- Shorter, clearer text throughout.\n- Fixed missing artist artwork and favourites getting out of sync."
 }
